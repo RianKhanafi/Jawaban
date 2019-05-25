@@ -1,0 +1,73 @@
+/*Navbar*/
+	
+nav {
+	background: linear-gradient(to left, #e96495 60%, #868acb);
+	border-bottom-left-radius: 100px;
+	border-bottom-right-radius: 100px;
+	width: 102%;
+	margin-left: -1%;
+
+}
+nav ul li a, nav a.navbar-brand{
+	color:white !important;
+	font-size: 18px !important;
+}
+nav a.navbar-brand{
+	margin-right: 200px;
+}
+/*Akhir Navbar*/
+
+
+/*Konten*/
+.row-konten{
+	margin-top:3rem;
+}
+.row-konten .row-input{
+	box-shadow: 1px 0 10px rgba(0,0,0,0.4);
+	padding-top:15px;
+	border-radius: 10px;
+}
+.row-konten input{
+	border-radius: 50px;
+}
+.row-konten button{
+	background-color:#868acb;
+	border-radius: 50px;
+	color:white;
+}
+.row-konten button:hover, .row-tampil button:hover{
+	color:white;	
+	opacity: 0.9;
+}
+/*tampil user*/
+div.row-tampil div.row-data{
+	margin-top: 3rem;
+	box-shadow: 1px 0 10px rgba(0,0,0,0.4);
+	padding:10px;
+	border-radius: 10px;
+}
+.col-nama, .col-sekil{
+	height:81px;
+}
+.col-nama{
+	border-bottom:1px solid #ced4da;
+}
+.col-nama h2{
+	margin:15px 0;
+}
+.col-sekil{
+	padding-top: 10px;
+}
+.row-tampil input{
+	margin:60px 0;
+	border-radius: 50px;
+	width:90%;
+}
+
+.row-tampil button{
+	background-color:#868acb;
+	border-radius: 50px;
+	color:white;
+	margin:60px 0;
+}
+/*Akhir Konten*/

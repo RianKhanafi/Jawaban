@@ -1,0 +1,24 @@
+[	
+	{
+	"name" : "Rian Khanafi",
+	"address" : "Jenggeran, kalikajar, wonosobo, Jawa Tengah",
+	"hobbies" :[
+				"Coding",
+				"gamming"
+	],
+	"is_married": false,
+	"school" :{
+			"school1": "SDN 5 Butuh Kidul",
+			"school2" : "SMPN 3 Kalikajar",
+			"school3" : "SmkS Takhassus Al-Qur'an"
+			 },
+	"skills" :{
+				"website" : [
+						"Php",
+						"Css",
+						"CI",
+						"Database"
+				]
+			  }
+	}
+]
